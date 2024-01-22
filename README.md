@@ -10,7 +10,7 @@ To get started with the project, follow these steps:
  Clone the repository:
 
    ```bash
-   git clone https://github.com/kingayo12/Bettyp.git
+   git clone https://github.com/Ifeoluwaobayemi/myPortfolio.git
    ```
 
 Initialize with yarn:
@@ -46,10 +46,10 @@ The optimized build will be generated in the `dist` directory.
 
 ## WEBVIEW 
 ### Home
-![bettyHome](https://github.com/kingayo12/Bettyp/assets/90006482/f9f0c2ab-dc22-40bc-9959-9e8a87e2cb80)
+![bettyHome](https://github.com/ifeoluwaobayemi/Bettyp/assets/90006482/f9f0c2ab-dc22-40bc-9959-9e8a87e2cb80)
 
 ### About
-![bettyAbut](https://github.com/kingayo12/Bettyp/assets/90006482/ce5eb561-724e-4524-942f-fe688d362e20)
+![bettyAbut](https://github.com/ifeoluwaobayemi/Bettyp/assets/90006482/ce5eb561-724e-4524-942f-fe688d362e20)
 
 ## Contributing
 
