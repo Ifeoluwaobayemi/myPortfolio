@@ -1,0 +1,31 @@
+/* Home.css */
+
+/* Media query for smaller screens */
+@media screen and (max-width: 767px) {
+    .xl\:pt-40 {
+      padding-top: 2rem; /* Adjust padding top for smaller screens */
+    }
+  
+    .xl\:text-left {
+      text-align: center; /* Center text for smaller screens */
+    }
+  
+    .xl\:mb-16 {
+      margin-bottom: 1rem; /* Adjust margin bottom for smaller screens */
+    }
+  
+    /* Add any other styling adjustments for smaller screens */
+  }
+  
+  /* Media query for extra-small screens */
+  @media screen and (max-width: 479px) {
+    .h1 {
+      font-size: 2rem; /* Adjust font size for smaller screens */
+    }
+  
+    .text-pink-300 {
+      font-size: 0.875rem; /* Adjust font size for smaller screens */
+    }
+  
+    /* Add any other styling adjustments for extra-small screens */
+  }
